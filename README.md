@@ -12,6 +12,8 @@ This project implements color quantization on images using the K-Means clusterin
 - Replaces each pixel's color with its corresponding cluster center
 - Displays the original and quantized images side by side for comparison
 
+<img src="./README/color-quantization.jpg" alt="Palm trees color quantization" width="450" /><br>
+
 ## Requirements
 
 - Python 3.x
